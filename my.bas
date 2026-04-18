@@ -1,8 +1,0 @@
-
-DIM A = 10
-DIM B = 20
-
-PRINT A
-PRINT B
-PRINT A + B
-PRINT "Resultado:", A + B
